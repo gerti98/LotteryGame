@@ -1,6 +1,6 @@
 # LotteryGame 
 
-**LotteryGame** is a simple Client-Server Lottery Simulator playable just through the terminal. It handles multiple session by managing multiple TCP connections.
+**LotteryGame** is a simple Client-Server Lottery Simulator playable just through the terminal. It handles multiple session by managing multiple TCP connections. This project is an assignent for the **Computer Networks' exam**.    
 You'll need a Unix-based operating system to run it.
 
 
