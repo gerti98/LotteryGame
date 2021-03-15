@@ -1,6 +1,8 @@
 # Lottery Game: Client-Server implementation
 
-**LotteryGame** is a simple Client-Server Lottery Simulator playable just through the terminal. It handles multiple session by managing multiple TCP connections. This project is an assignement for the **Computer Networks' exam** (Reti Informatiche) of the BSc in Computer Engineering (Ingegneria Informatica) at the University of Pisa.    
+**LotteryGame** is a simple Client-Server Lottery Simulator playable just through the terminal. Implementend through socket programming in C.
+
+It handles multiple session by managing multiple TCP connections. This project is an assignement for the **Computer Networks' exam** (Reti Informatiche) of the BSc in Computer Engineering (Ingegneria Informatica) at the University of Pisa.    
 The following project was ran and tested on Debian 8 distribution. 
 
 
