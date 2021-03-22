@@ -25,5 +25,5 @@ The following project was ran and tested on Debian 8 distribution.
 
 NOTE: this tool shows messages only in Italian. I'm currently working on a English translation to make everything more comprehensive. For now you can relay on Google Translate instead.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgerti98%2FLotteryGame&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgerti98%2FCar-Sharing-Database&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
